@@ -1,0 +1,32 @@
+{
+  "name": "mongo_express-nodemon",
+  "version": "1.0.0",
+  "description": "api creada con Express y MongoDB para CRUD, actualizando la api con Nodemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aAndres441/MongoDB_CRUD.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "express",
+    "nodemon",
+    "cors",
+    "postman"
+  ],
+  "author": "Andres Arias <andrarias@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aAndres441/MongoDB_CRUD/issues"
+  },
+  "homepage": "https://github.com/aAndres441/MongoDB_CRUD#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.9"
+  }
+}
